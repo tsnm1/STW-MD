@@ -10,7 +10,7 @@ Part 2: Visualizing the results of gene enrichment analysis.
 Part 3: Visualizing the number of upregulated and downregulated genes.
 
 
-## ## [UMAP_NEW3.ipynb](https://github.com/tsnm1/STW-MD/blob/main/UMAP_NEW3.ipynb "UMAP_NEW3.ipynb")
+## [UMAP_NEW3.ipynb](https://github.com/tsnm1/STW-MD/blob/main/UMAP_NEW3.ipynb "UMAP_NEW3.ipynb")
 This code processes data from nineteen brain regions and patient information data. 
 
 Firstly, it conducts descriptive analysis on the data. 
@@ -19,7 +19,7 @@ Subsequently, it employs the limma model for differential gene expression select
 
 Finally, it employs a multi-step decision tree model, including umap, k-means, pca and decision tree, to further process the differentially expressed genes selected in the second round of screening.
 
-## ## [UMAP_OLD3.ipynb](https://github.com/tsnm1/STW-MD/blob/main/UMAP_OLD3.ipynb "UMAP_OLD3.ipynb")
+## [UMAP_OLD3.ipynb](https://github.com/tsnm1/STW-MD/blob/main/UMAP_OLD3.ipynb "UMAP_OLD3.ipynb")
 This code processes data from sixteen brain regions and developmental information of study subjects. 
 
 Initially, it employs the limma model for differential gene expression selection. 
