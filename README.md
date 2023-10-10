@@ -2,7 +2,7 @@
 STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Considering Spatial Heterogeneity in Brain Gene Expression Data
 
 ## [UMAP_OLD3.ipynb](https://github.com/tsnm1/STW-MD/blob/main/UMAP_OLD3.ipynb "UMAP_OLD3.ipynb")
-This code processes data (AD dataset) from sixteen brain regions and developmental information of study subjects. 
+This code processes data (AD dataset) from nineteen brain regions and developmental information of study subjects. 
 
 Initially, it employs the limma model for differential gene expression selection. 
 
@@ -11,7 +11,7 @@ Following this, it adjusts the weights and assigns weights to the top 5% of diff
 Finally, it utilizes a multi-step decision tree model, including umap, k-means, pca and decision tree,  to further process the differentially expressed genes selected in the second round of screening.
 
 ## [UMAP_NEW3.ipynb](https://github.com/tsnm1/STW-MD/blob/main/UMAP_NEW3.ipynb "UMAP_NEW3.ipynb")
-This code processes data (brain development dataset) from nineteen brain regions and patient information data. 
+This code processes data (brain development dataset) from sixteen brain regions and patient information data. 
 
 Firstly, it conducts descriptive analysis on the data. 
 
